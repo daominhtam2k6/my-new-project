@@ -1,0 +1,8 @@
+﻿Đây là file được thêm sau khi README.md đã được push lần đầu.
+
+Mục đích:
+Thực hành lại quy trình:
+
+git add
+git commit
+git push
